@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет, меня зовут Дмитрий! 👋  
 
-<!--
-**DeaMoN2108/DeaMoN2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Учусь в **МГУТУ им. К.Г. Разумовского (ПКУ)**  
+💻 Начинающий **QA - инженер**  
+🚀 Постепенно развиваюсь в области QA 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Навыки и инструменты:
+- Теория тестирования  
+- Тест-кейсы, чек-листы, баг-репорты  
+- Postman, Git, MySQL  
+- ЯП на базовом уровне: Python, C#, C++   
+
+---
+
+### 📈 GitHub статистика:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeaMoN2108&show_icons=true&theme=radical)  
+
+---
+
+### Электронные сертификаты:
+- ["Поколение Python": курс для начинающих](https://stepik.org/cert/1897938)
+- Тестирование ПО с нуля. Теория + Практика
+
+---
+
+### 📫 Как со мной связаться:
+- ✉️ Email: dimayaroshchuk008@inbox.ru
+- 💼 Telegram: @YBR_001   
